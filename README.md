@@ -4,9 +4,9 @@ Its a JS based game to roll a dice and who gets the first 50 is the winner. and 
 
 <h2>Gallary</h2>
 <div style="display:flex;">
-    1.<img height="400px" src="images/readme-1.png" alt="Playing dice" class="dice" />	
-    2.<img height="400px" src="images/readme-2.png" alt="Playing dice" class="dice" />			
-    3.<img height="400px" src="images/readme-3.png" alt="Playing dice" class="dice" />
+    1.<img height="150px" src="images/readme-1.png" alt="Playing dice" class="dice" />	
+    2.<img height="150px" src="images/readme-2.png" alt="Playing dice" class="dice" />			
+    3.<img height="150px" src="images/readme-3.png" alt="Playing dice" class="dice" />
 
 </div> 
 <h3>Including Functionality</h3>
