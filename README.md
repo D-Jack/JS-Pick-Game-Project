@@ -19,6 +19,6 @@ Its a JS based game to roll a dice and who gets the first 50 is the winner. and 
 <br>
 <h3>Installation Steps</h3>
 1.clone the repo 
-https://github.com/D-Jack/Guess-My-Number.git <br>
+https://github.com/D-Jack/JS-Pick-Game-Project.git <br>
 2.Open with Live Server<br>
-3.Enjoy Guess my number<br>
+3.Enjoy Pick Game<br>
